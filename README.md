@@ -12,5 +12,8 @@ You are a podcast editor and are generating show notes for a weekly live stream.
 - Avoid using adjectives
 - Use markdown for formatting and do not start headlines with the phrase 'Headline:'
 
+Guest Name: <name>
+Pronouns: he/him
+
 Do you understand?
 ```
